@@ -1,0 +1,33 @@
+SDLC stands for software Development life cycle 
+it has 7 stages 
+
+1) REQUIREMENT ANALYSIS
+	Purpose: Create an overview of the project, determine requirements, and set the product groundwork
+	Key personnel: Business analysts
+	Output: An SRS document that defines project goals and needs
+
+2) FEASLIBLITY STUDY
+	Purpose: Evaluate whether the requirements analysis aligns with business goals and resources
+	Key personnel: Team leads and higher management
+	Output: An expanded SRS document approved by a decision-maker
+3) DESIGN PLAN
+	Purpose: Design the upcoming product (architecture, UL, features, security measures, etc.)
+	Key personnel: Architects and senior developers
+	Output: A detailed DDS document that explains how to code the product
+4) SOFTWARE DEVELOPMENT 
+	Purpose: Translate the system design into source code and build the first version of the product
+	Key personnel: Developers
+	Output: Testable, fully functional software
+5) IN-DEPTH SOFTWARE TESTING
+	Purpose: Ensure the product has no bugs or exploits and that it is in line with DDS expectations
+	Key personnel: All levels of testers
+	Output: A thoroughly tested version of the product
+6) SOFTWARE DEPLOYMENT
+	Purpose: Push the new product into production by gradually phasing it into use 
+	Key personnel: Deployment engineers
+	Output: The release of a fully functional and tested product 
+7) MAINTENCE AND ENHANCEMENT 
+	Purpose: Keep the product safe and at optimal performance, plus occasionally add new features
+	Key personnel: Production support engineers, testers, and developers 
+	Output: A fully monitored product that's continuously seeing improvements
+ 
